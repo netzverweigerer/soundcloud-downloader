@@ -48,4 +48,4 @@ The script cannot handle letters like `û` cause to recode. But if i remove it, 
 
 License
 --------------
-[GPL v2](https://www.gnu.org/licenses/gpl-2.0.txt), orignal author [Luka Pusic](http://pusic.si)
+[GPL v2](https://www.gnu.org/licenses/gpl-2.0.txt), orignal author [Luka Pusic](http://pusic.si), modifications by [Netzverweigerer](http://github.com/netzverweigerer)

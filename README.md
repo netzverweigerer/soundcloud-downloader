@@ -1,4 +1,4 @@
-Souncloud music downloader - netzverweigerer version
+Soundcloud music downloader - netzverweigerer version
 ==============
 
 Description
